@@ -1,0 +1,12 @@
+'GenreMaint'.maint({panelStyle: "titled"})
+'Add Customer Type'.title({when: 'adding'})
+'Edit Customer Type'.title({when: 'editing'})
+'Back'.action({act: 'cancel'})
+'OK'.action({act: 'ok'})
+'Save'.action({act: 'save'})
+'Add another'.action({act: 'add'})
+'Genre'.datatype()
+
+'Details'.panel()
+'description'.field({key: true})
+'notes'.field({multiLine: true})

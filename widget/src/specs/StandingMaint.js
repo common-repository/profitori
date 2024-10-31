@@ -1,0 +1,12 @@
+'StandingMaint'.maint({panelStyle: "titled"})
+'Add Lead Status'.title({when: 'adding'})
+'Edit Lead Status'.title({when: 'editing'})
+'Back'.action({act: 'cancel'})
+'OK'.action({act: 'ok'})
+'Save'.action({act: 'save'})
+'Add another'.action({act: 'add'})
+'Standing'.datatype()
+
+'Details'.panel()
+'description'.field({key: true})
+'notes'.field({multiLine: true})

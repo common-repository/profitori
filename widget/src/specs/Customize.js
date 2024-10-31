@@ -1,0 +1,25 @@
+'Customize'.maint()
+'Customize Fields'.title()
+'Back'.action({act: 'cancel'})
+'OK'.action({act: 'ok'})
+'Save'.action({act: 'save'})
+'Template'.datatype()
+'specification'.field({hidden: true, key: true})
+'Facets'.manifest()
+'Add Field'.action({act: 'add'})
+'Facet'.datatype()
+'template'.field({refersToParent: 'Template', hidden: true})
+'caption'.field({key: true, caption: "Column Heading"})
+'source'.field({caption: "Get Value From"})
+'sequence'.field({numeric: true})
+'Edit'.action({place: 'row', act: 'edit'})
+'Trash'.action({place: 'row', act: 'trash'})
+'FacetMaint.js'.maintSpecname()
+
+'Facets'.defaultSort({field: "sequence"})
+
+'Customize'.substituteCast(async (template, maint) => {
+  let specname = maint.callerSpecname()
+  let res = await 'Template'.bringOrCreate({specification: specname})
+  return res
+})

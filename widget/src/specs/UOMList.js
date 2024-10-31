@@ -1,0 +1,11 @@
+'UOMList'.list()
+'Units of Measure'.title()
+'Back'.action({act: 'cancel'})
+'Add'.action({act: 'add'})
+'UOM'.datatype()
+'uomName'.field()
+'description'.field()
+'Edit'.action({place: 'row', act: 'edit'})
+'Trash'.action({place: 'row', act: 'trash'})
+'UOMMaint.js'.maintSpecname()
+

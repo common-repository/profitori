@@ -1,0 +1,884 @@
+[
+  {
+    "name": "Assets",
+    "code": "010000",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Cash And Financial Assets",
+    "code": "010100",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Cash And Cash Equivalents",
+    "code": "010101",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Bank",
+    "code": "01010101",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Financial Assets (Investments)",
+    "code": "010102",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Restricted Cash And Financial Assets",
+    "code": "010103",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Additional Financial Assets And Investments",
+    "code": "010104",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Receivables And Contracts",
+    "code": "010200",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accounts, Notes And Loans Receivable",
+    "code": "010201",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Contracts",
+    "code": "010202",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Nontrade And Other Receivables",
+    "code": "010203",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Inventory",
+    "code": "010300",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Merchandise",
+    "code": "010301",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Raw Material, Parts And Supplies",
+    "code": "010302",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Work In Process",
+    "code": "010303",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Finished Goods",
+    "code": "010304",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Inventory",
+    "code": "010305",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accruals And Additional Assets",
+    "code": "010400",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Prepaid Expense",
+    "code": "010401",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accrued Income",
+    "code": "010402",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Additional Assets",
+    "code": "010403",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Property, Plant And Equipment",
+    "code": "010500",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Land And Land Improvements",
+    "code": "010501",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Buildings, Structures And Improvements",
+    "code": "010502",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Machinery And Equipment",
+    "code": "010503",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Furniture And Fixtures",
+    "code": "010504",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Additional Property, Plant And Equipment",
+    "code": "010505",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Construction In Progress",
+    "code": "010506",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intangible Assets (Excluding Goodwill)",
+    "code": "010600",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intellectual Property",
+    "code": "010601",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Computer Software",
+    "code": "010602",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Trade And Distribution Assets",
+    "code": "010603",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Contracts And Rights",
+    "code": "010604",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Right To Use Assets (Classified By Type)",
+    "code": "010605",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Intangible Assets",
+    "code": "010606",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Acquisition In Progress",
+    "code": "010607",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Goodwill",
+    "code": "010700",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Liabilities",
+    "code": "020000",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Payables",
+    "code": "020100",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Trade Payables",
+    "code": "020101",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "PO Clearing",
+    "code": "02010101",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Dividends Payable",
+    "code": "020102",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Interest Payable",
+    "code": "020103",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Payables",
+    "code": "020104",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accruals And Other Liabilities",
+    "code": "020200",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accrued Expenses",
+    "code": "020201",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accrued Overhead",
+    "code": "02020101",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Inventory Adjustment Accrual",
+    "code": "02020102",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Inventory Transfer Clearing",
+    "code": "02020103",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Inventory Value Adjustment Clearing",
+    "code": "02020104",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Deferred Income (Unearned Revenue)",
+    "code": "020202",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accrued Taxes (Other Than Payroll)",
+    "code": "020203",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Liabilities",
+    "code": "020204",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Financial Labilities",
+    "code": "020300",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Notes Payable",
+    "code": "020301",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Loans Payable",
+    "code": "020302",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Bonds (Debentures)",
+    "code": "020303",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Debts And Borrowings",
+    "code": "020304",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Lease Obligations",
+    "code": "020305",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Derivative Financial Liabilities",
+    "code": "020306",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Provisions (Contingencies)",
+    "code": "020400",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Customer Related Provisions",
+    "code": "020401",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Ligation And Regulatory Provisions",
+    "code": "020402",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Additional Provisions",
+    "code": "020403",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Equity",
+    "code": "030000",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Owners Equity (Attributable To Owners Of Parent)",
+    "code": "030100",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Equity At Par (Issued Capital)",
+    "code": "030101",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Additional Paid-In Capital",
+    "code": "030102",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Retained Earnings",
+    "code": "030200",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Appropriated",
+    "code": "030201",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Unappropriated",
+    "code": "030202",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Deficit",
+    "code": "030203",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "In Suspense",
+    "code": "030204",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Accumulated OCI",
+    "code": "030300",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Exchange Differences On Translation",
+    "code": "030301",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Remeasurements Cash Flow Hedges",
+    "code": "030302",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Remeasurements Available-For-Sale Financial Assets",
+    "code": "030303",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Remeasurement Of Defined Benefit Plans",
+    "code": "030304",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Revaluation Surplus (IFRS Only)",
+    "code": "030305",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Remeasurements Investments In Equity Instruments (IFRS only)",
+    "code": "030306",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Equity Items",
+    "code": "030400",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "ESOP Related Items",
+    "code": "030401",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Subscribed Stock Receivables",
+    "code": "030402",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Treasury Stock",
+    "code": "030403",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Miscellaneous Equity",
+    "code": "030404",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Non-controlling (Minority) Interest",
+    "code": "030500",
+    "type": "Equity",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Revenue",
+    "code": "040000",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Recognized Point Of Time",
+    "code": "040100",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Sales - Goods",
+    "code": "040101",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Sales - Services",
+    "code": "040102",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Recognized Over Time",
+    "code": "040200",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Sales - Products Recognized Over Time",
+    "code": "040201",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Sales - Services Recognized Over Time",
+    "code": "040202",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Revenue Adjustments",
+    "code": "040300",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Variable Consideration",
+    "code": "040301",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Consideration Paid (Payable) To Customers",
+    "code": "040302",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Other Adjustments",
+    "code": "040303",
+    "type": "Income",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Expenses",
+    "code": "050000",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Expenses Classified By Nature",
+    "code": "050100",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Material And Merchandise",
+    "code": "050101",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Employee Benefits",
+    "code": "050102",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Services Expense",
+    "code": "050103",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Rent, Depreciation, Amortization And Depletion",
+    "code": "050104",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Increase (Decrease) In Inventories Of Finished Goods And Work In Progress (IFRS only)",
+    "code": "050105",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Other Work Performed By Entity And Capitalized (IFRS only)",
+    "code": "050106",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Expenses Classified By Function",
+    "code": "050200",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Cost Of Sales",
+    "code": "050201",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Selling, General And Administrative",
+    "code": "050202",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Provision For Doubtful Accounts (US GAAP)",
+    "code": "050203",
+    "type": "Expenditure",
+    "taxTreatment": "Taxed"
+  },
+  {
+    "name": "Other (Non-Operating) Income And Expenses",
+    "code": "060000",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Revenue And Expenses",
+    "code": "060100",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Revenue",
+    "code": "060101",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Expenses",
+    "code": "060102",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Gains And Losses",
+    "code": "060200",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Foreign Currency Transaction Gain (Loss)",
+    "code": "060201",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Gain (Loss) On Investments",
+    "code": "060202",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Gain (Loss) On Derivatives",
+    "code": "060203",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Gain (Loss) On Disposal Of Assets",
+    "code": "060204",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Debt Related Gain (Loss)",
+    "code": "060205",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Impairment Loss",
+    "code": "060206",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Impairment Loss (Reversal) Financial Assets (IFRS Only)",
+    "code": "060207",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Gains And (Losses)",
+    "code": "060208",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Taxes (Other Than Income And Payroll) And Fees",
+    "code": "060300",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Real Estate Taxes And Insurance",
+    "code": "060301",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Highway (Road) Taxes And Tolls",
+    "code": "060302",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Direct Tax And License Fees",
+    "code": "060303",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Excise And Sales Taxes",
+    "code": "060304",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Customs Fees And Duties (Not Classified As Sales Or Excise)",
+    "code": "060305",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Non-Deductible VAT (GST)",
+    "code": "060306",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "General Insurance Expense",
+    "code": "060307",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Administrative Fees (Revenue Stamps)",
+    "code": "060308",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Fines And Penalties",
+    "code": "060309",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Miscellaneous Taxes",
+    "code": "060310",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Other Taxes And Fees",
+    "code": "060311",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Income Tax Expense (Benefit)",
+    "code": "060400",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany And Related Party Accounts",
+    "code": "070000",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany And Related Party Assets",
+    "code": "070100",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany Balances (Eliminated In Consolidation)",
+    "code": "070101",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Related Party Balances (Reported Or Disclosed)",
+    "code": "070102",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany Investments",
+    "code": "070103",
+    "type": "Asset",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany And Related Party Liabilities",
+    "code": "070200",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany Balances (Eliminated In Consolidation)",
+    "code": "070201",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Related Party Balances (Reported Or Disclosed)",
+    "code": "070202",
+    "type": "Liability",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany And Related Party Income And Expense",
+    "code": "070300",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany And Related Party Income",
+    "code": "070301",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Intercompany And Related Party Expenses",
+    "code": "070302",
+    "type": "Expenditure",
+    "taxTreatment": "Excluded"
+  },
+  {
+    "name": "Income (Loss) From Equity Method Investments",
+    "code": "070303",
+    "type": "Income",
+    "taxTreatment": "Excluded"
+  }
+]

@@ -1,0 +1,10 @@
+'NextNumberList'.list()
+'Automatic Numbering'.title()
+'Back'.action({act: "cancel"})
+'Save'.action({act: "save"})
+'Refresh'.action({act: "refresh"})
+'Download to Excel'.action({act: 'excel'})
+
+'NextNumber'.datatype()
+'forDatatype'.field({readOnly: true})
+'number'.field({allowInput: true})

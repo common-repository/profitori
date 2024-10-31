@@ -1,0 +1,5 @@
+"atumProduct".datatype({source: "WC"})
+"product_id".field()
+"purchase_price".field()
+"supplier_id".field()
+"supplier_sku".field()

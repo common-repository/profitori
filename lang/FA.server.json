@@ -1,0 +1,21 @@
+{
+  "Home": "خانه",
+  "Dashboard": "داشبورد",
+  "Inventory": "موجودی",
+  "Location Inventory": "موجودی مکان",
+  "Purchase Orders": "سفارشات خرید",
+  "Receive Purchases": "دریافت خرید ها",
+  "Work Orders":"دستورات کاری",
+  "Sales and Invoices": "فروش و فاکتور",
+  "Fulfillment": "تحویل",
+  "View Profits": "مشاهده سود",
+  "General Ledger":"دفتر کل",
+  "Stocktake": "انبارگردانی",
+  "Suppliers": "تامین کنندگان",
+  "Customers": "مشتری ها",
+  "Locations": "موقعیت",
+  "Reports": "گزارشات",
+  "Search": "جستجو",
+  "Settings": "تنظیمات",
+  "Modify Profitori": "اصلاح سود"
+}

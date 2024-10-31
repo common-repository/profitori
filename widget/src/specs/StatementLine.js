@@ -1,0 +1,8 @@
+'StatementLine'.datatype({exportable: true})
+'statement'.field({refersToParent: 'Statement', parentIsHeader: true})
+'sequence'.field({numeric: true})
+'lineType'.field()
+'caption'.field()
+'ranges'.field()
+'drcr'.field()
+'bold'.field({yesOrNo: true})

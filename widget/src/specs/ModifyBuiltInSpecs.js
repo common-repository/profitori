@@ -1,0 +1,10 @@
+'ModifyBuiltInSpecs'.list()
+'Modify Built-in Specs'.title()
+'Back'.action({act: 'cancel'})
+'Download to Excel'.action({act: 'excel'})
+'BuiltInSpec'.datatype()
+'name'.field({key: true})
+'modified'.field({yesOrNo: true})
+'Modify'.action({place: 'row', act: 'edit'})
+
+'ModMaint.js'.maintSpecname()

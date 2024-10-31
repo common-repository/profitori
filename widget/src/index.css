@@ -1,0 +1,1047 @@
+xbody {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.stLevel0 {
+  margin: 0;
+  font-family: "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+xcode {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html, body {
+  height: 100%;
+}
+
+div {
+  box-sizing: border-box;
+  xdisplay: flex;
+  xflex-direction: column;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+.stsubroot {
+  xheight: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.stLevel0 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.stLevel1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.stLevel2 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.stLevel3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.stLevel4 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+
+.stDashboardLevel4 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.stPageLevel4 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+
+.stLevel5 {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 0px !important;
+}
+
+label {
+  margin-bottom: 0px !important;
+  margin-top: 12px !important;
+}
+
+.stLevel1 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.stLevel2 {
+  margin-left: 0px;
+}
+
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  flex-direction: row;
+}
+
+.stMenu {
+  flex-direction: row;
+}
+
+.xstLevel3 {
+  height: calc(100% - 38px);
+}
+
+.stTestButtons {
+  flex-direction: row;
+}
+
+.pageTitleText {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.pageTitle {
+  height: 42px;
+  margin-top: 14px;
+  flex-direction: row;
+  display: flex;
+}
+
+.headerButtons {
+  height: 44px;
+  margin-top: 12px;
+}
+
+.stLevel5 {
+  margin-right: 4px;
+  padding-left: 3px;
+}
+
+.form-control {
+  margin-top: 0px;
+}
+
+table {
+  margin-top: 2px;
+}
+
+.modal-header {
+  flex-direction: row;
+}
+
+.modal-footer {
+  flex-direction: row;
+}
+
+.stProgress {
+  margin-right: 6px;
+  text-align: center;
+}
+
+.stTDNumeric {
+  text-align: right;
+}
+
+.stColumnCaption {
+  float: left;
+  cursor: pointer;
+}
+
+.stColumnCaptionRightJustified {
+  float: right;
+  cursor: pointer;
+  text-align: right;
+}
+
+.stTH, .stTHRightJustified, .stSearcherClear {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.stTHSorter {
+  float: left;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.stTHRightJustifiedSorter {
+  float: right;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.stSearcher {
+  float: right;
+  width: 40% !important;
+  height: 38px;
+  margin-left: auto;
+  margin-right: 18px;
+}
+
+.stSearcherInput {
+  margin-top: 0px;
+}
+
+.stSearcherClear {
+  height: 38px;
+  margin-top: 0px !important;
+  font-size: xx-small !important;
+  cursor: pointer;
+}
+
+.stTHSpinner {
+  height: 16px !important;
+  width: 16px !important;
+}
+
+.form-control {
+  padding: .375rem .75rem !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  color: #495057 !important;
+  background-color: #fff !important;
+  background-clip: padding-box !important;
+  border: 1px solid #ced4da !important;
+  border-radius: .25rem !important;
+  max-width: none !important;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25) !important;
+}
+
+.form-control:disabled, .form-control[readonly] {
+  background-color: #e9ecef !important;
+  opacity: 1 !important;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+.html2canvas-container { 
+  width: 3000px !important; 
+  height: 3000px !important; 
+}
+
+.stCombolistTD:hover {
+  background: rgba(0,0,0,.05);
+  color: rgba(0,0,0,.95);
+}
+
+.stComboboxInput {
+  border: none !important;
+  margin-top: 0px !important;
+  xheight: 24px !important;
+}
+
+.stComboboxInput:focus {
+  box-shadow: none !important;
+}
+
+.stComboboxContainer {
+  border: 1px solid #ced4da !important;
+  border-radius: .25rem !important;
+  margin-top: 0px;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out !important;
+}
+
+.stComboboxContainer:focus-within {
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25) !important;
+}
+
+.stComboboxArrow {
+  padding: 6px !important;
+  margin-right: 2px !important;
+  cursor: pointer !important;
+  opacity: 0.5 !important;
+  outline: none;
+}
+
+.stSelected {
+  background: rgba(0,0,0,.20);
+  color: rgba(0,0,0,.95);
+}
+
+#wpcontent {
+  background: #f1f1f1;
+}
+
+.stLevel0 {
+  background-color: #f1f1f1;
+}
+
+.stLevel4 {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 5px 0px #E4E4E4;
+  border: 1px solid #E4E4E4;
+  margin-left: -20px;
+}
+
+.stDashboardLevel4 {
+  background-color: #ffffff;
+  margin-left: -20px;
+}
+
+.stPlot {
+  margin-top: 0px;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+  min-height: 400px;
+}
+
+.stGrid {
+  margin-top: 0px;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+  min-height: 400px;
+}
+
+.stGrid .table {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.stTH, .stTHRightJustified {
+  border-top: none !important;
+  border-bottom: none !important;
+  font-weight: 500 !important;
+  padding-top: 4px !important;
+  font-size: 14px !important;
+}
+
+.table .stTD {
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+  font-size: 14px;
+}
+
+.stTR:nth-child(even), stTR:nth-child(2n) {
+  background-color: #F4F3F8;
+}
+
+.stTR:nth-child(odd):hover, stTR:nth-child(2n):hover {
+  background: #FFFAF3;
+}
+
+.stTDTotal {
+  font-style: italic;
+}
+
+.stLabel {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 2px !important;
+}
+
+.stPageTitleText {
+  font-size: 26px;
+  font-weight: 450;
+  color: #23282d;
+}
+
+.stHeaderButton {
+  background-color: #e8fbdd !important;
+  border-color: #84BA65 !important;
+  color: #84BA65 !important;
+  font-weight: 500 !important;
+  height: 38px !important;
+  padding-top: 5px !important;
+}
+
+.stHeaderButton:active, .stHeaderButton:hover {
+  color: white !important;
+  background-color: #84BA65 !important;
+  border-color: #84BA65 !important;
+}
+
+.stLevel4 {
+  height: calc(100% - 94px);
+}
+
+.stDashboardLevel4 {
+  height: calc(100% - 94px);
+}
+
+#stLinks {
+  color: #84BA65 !important;
+  background-color: transparent;
+  border: none;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-top: 12px;
+  float: right;
+}
+
+.stParticularsDestinationLink {
+  text-align: left !important;
+  font-size: 16px !important;
+}
+
+.stDestinationLink {
+  text-align: left !important;
+  font-size: 14px !important;
+}
+
+#stHelp {
+  color: #84BA65 !important;
+  background-color: transparent;
+  border: none;
+  margin-left: 15px;
+  margin-right: 0px;
+  margin-top: 0px;
+  float: right;
+}
+
+#stHelp:hover{
+  text-decoration: none !important;
+}
+
+#stContactSupport {
+  color: #84BA65 !important;
+  background-color: transparent;
+  border: none;
+  margin-left: 15px;
+  margin-right: 0px;
+  margin-top: 0px;
+  float: right;
+}
+
+#stContactSupport:hover{
+  text-decoration: none !important;
+}
+
+#stGoPro {
+  color: #84BA65 !important;
+  background-color: transparent;
+  border: none;
+  margin-left: 15px;
+  margin-right: 0px;
+  margin-top: 0px;
+  float: right;
+  font-style: italic;
+  font-weight: 600;
+}
+
+#stGoPro:hover{
+  text-decoration: none !important;
+}
+
+#stManageAccount {
+  color: #84BA65 !important;
+  background-color: transparent;
+  border: none;
+  margin-left: 15px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+#stManageAccount:hover{
+  text-decoration: none !important;
+}
+
+.stParticulars {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.stTextField {
+  margin-top: 0px !important;
+}
+
+.stPlotHeaderButtons {
+  margin-left: 13px !important;
+}
+
+.stGridHeaderButtons {
+  margin-left: 13px !important;
+}
+
+.stPlotSeparator {
+  height: 24px;
+}
+
+.stGridSeparator {
+  height: 24px;
+}
+
+.stFormRejection {
+  margin-top: 0px !important;
+}
+
+#profitori-root {
+  margin-left: 20px;
+}
+
+.stNonPanelPortal {
+  margin-left: 0px;
+  margin-right: 9px;
+  width: calc(50% - 9px);
+  float: left;
+}
+
+.stPortal:nth-child(odd), stPortal:nth-child(2n) {
+  margin-left: 0px;
+  margin-right: 9px;
+  width: calc(50% - 9px);
+  float: left;
+}
+
+.stPortal:nth-child(even), stPortal:nth-child(2n) {
+  margin-left: 9px;
+  margin-right: 0px;
+  width: calc(50% - 9px);
+  float: right;
+}
+
+.stPortalContainer {
+  margin-left: 18px;
+  margin-right: 18px;
+  flex-direction: row;
+}
+
+.stPanelTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 2px !important;
+  margin-top: 12px !important;
+}
+
+.stPlotTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 13px;
+  margin-top: 0 !important;
+  margin-bottom: 8px !important;
+}
+
+.stGridTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 13px;
+  margin-top: 0 !important;
+  margin-bottom: 8px !important;
+}
+
+.stPortalVerticalSeparator {
+  margin-top: 22px !important;
+}
+
+.stParticularsDestinationLink {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.stDestinationLink {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+#wpfooter {
+  display: none;
+}
+
+.prfiTile {
+  box-shadow: 0px 0px 5px 0px #E4E4E4;
+  border-top: 1px solid #E4E4E4;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.stRowButton {
+  padding-left: 3px !important;
+  padding-right: 3px !important;
+  float: left !important;
+}
+
+.stRowMoreButtonDiv {
+  float: left !important;
+}
+
+.stRowMoreButton::before {
+  content: none !important;
+}
+
+.stRowMoreButton {
+  float: left !important;
+  font-size: 14px !important;
+  padding-left: 3px !important;
+  padding-right: 3px !important;
+  color: #84BA65 !important; 
+  background-color: transparent !important;
+  border: none !important;
+  padding-bottom: 0px !important;
+  padding-top: 0px !important;
+  vertical-align: top !important;
+}
+
+.stListHeader {
+  height: 44px;
+  margin-top: 12px;
+  margin-bottom: 0 !important;
+}
+
+.stListHeaderButtons {
+  width: 60%;
+  padding: 0px !important;
+  border: none !important;
+}
+
+.stListSearcherCell {
+  width: 40%;
+  padding: 0px !important;
+  border: none !important;
+}
+
+.stUserFilterTD {
+  padding: 0px !important;
+  border: none !important;
+}
+
+.stListSearcher {
+  position: absolute;
+  right: 0;
+  width: 80% !important;
+  margin-right: 0px !important;
+  padding-right: 18px;
+  padding-left: 6px;
+}
+
+.stListSearcherSmall {
+  position: absolute;
+  right: 0;
+  width: 40% !important;
+  margin-right: 0px !important;
+  padding-right: 18px;
+  padding-left: 6px;
+}
+
+.stFilterAndSearch {
+  position: relative;
+}
+
+.stFilterAndSearch > .btn-group {
+  position: absolute;
+  left: 0;
+  width: 20% !important;
+}
+
+.stFilterAndSearch > .btn-group > .btn {
+  width: 100%;
+}
+
+.stFilterAndSearchBigFilter {
+  position: relative;
+}
+
+.stFilterAndSearchBigFilter > .btn-group {
+  position: absolute;
+  left: 0;
+  width: 60% !important;
+}
+
+.stFilterAndSearchBigFilter > .btn-group > .btn {
+  width: 100%;
+}
+
+.form-check-input {
+  margin-left: -7px !important;
+}
+
+.stGridCheckboxHolder{
+  text-align: center;
+}
+
+.stGridInput {
+  height: 25px !important;
+  min-height: 25px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-left: 6px !important;
+  margin-top: -2px !important;
+  font-size: 14px !important;
+}
+
+.stMaintInput {
+  height: 36px !important;
+}
+
+.stComboboxInput {
+  height: 34px !important;
+}
+
+.stComboboxContainer {
+  line-height: 1.0 !important;
+}
+
+.stComboboxArrow {
+  line-height: 1.4 !important;
+}
+
+.stSunderLink {
+  font-size: 14px !important;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+.stToggleVeilButton {
+  color: #84BA65 !important;
+  background-color: transparent;
+  border: none;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: 8px;
+  margin-top: 0px;
+  float: right;
+}
+va://prismjs.com/download.html#themes=prism&languages=clike+javascript */
+/**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+  color: black;
+  background: none;
+  text-shadow: 0 1px white;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 1em;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+
+@media print {
+  code[class*="language-"],
+  pre[class*="language-"] {
+    text-shadow: none;
+  }
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: 1em;
+  margin: .5em 0;
+  overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  background: #f5f2f0;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: slategray;
+}
+
+.token.punctuation {
+  color: #999;
+}
+
+.token.namespace {
+  opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #905;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+  color: #690;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: #9a6e3a;
+  /* This background color was intended by the author of this theme. */
+  background: hsla(0, 0%, 100%, .5);
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: #07a;
+}
+
+.token.function,
+.token.class-name {
+  color: #DD4A68;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+  color: #e90;
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+.token.italic {
+  font-style: italic;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+/* End Prism */
+
+
+#stComboboxDashboard {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.stDashboardHeaderControls {
+  display: flex;
+  margin-left: 12px;
+  margin-top: 2px;
+}
+
+.prfi_a_btn {
+  font-size: 24px !important;
+  padding-bottom: 2px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  border-radius: .25rem;
+  background-color: #84BA65 !important;
+  border-color: black !important;
+  color: white !important;
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+  text-decoration: none !important;
+}
+
+.prfi_pro_logo {
+  margin-left: -12px;
+}
+
+.prfi_pro_label {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6px !important;
+  font-weight: 600;
+}
+
+.prfi_pro_sub_label {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4px !important;
+  font-size: 12px;
+}
+
+.stGridCheckboxHolder > .form-check-input {
+  margin-top: 3px !important;
+}
+
+.stGridParticular > .form-group > .form-check-input {
+  margin-top: 3px !important;
+  margin-left: 6px !important;
+}
+
+.stLink {
+  color: #84BA65 !important;
+}
+
+.stHomePageLink {
+  color: white !important;
+  background-image: url("specs/images/btnback5.png") !important;
+  background-size: 400px;
+  background-color: rgba(0, 0, 0, 0) !important;
+  border-radius: 0 !important;
+  width: 400px !important;
+  height: 52px !important;
+  text-align: left !important;
+  padding-left: 15px !important;
+  margin-bottom: 30px !important;
+}
+
+.stHomePageProLink {
+  color: #7149a2 !important;
+  font-weight: 500;
+  background-image: url("specs/images/btnback2.png") !important;
+  background-color: rgba(0, 0, 0, 0) !important;
+  background-repeat: no-repeat;
+  background-size: auto;
+  border-radius: 0 !important;
+  padding: 15px !important;
+  padding-left: 70px !important;
+  padding-right: 70px !important;
+  margin-bottom: 7px !important;
+}
+
+.stHomePageBasicLink a {
+  color: #7149a2 !important;
+}
+
+.stAlt {
+  background-image: url("specs/images/btnback3.png") !important;
+}
+
+.stProCol {
+  margin-top: 38px !important;
+}
+
+.prfiButtonIcon {
+  margin-right: 12px;
+}
+
+.stHomePageLink > .prfiButtonIcon {
+  width: 33px !important;
+  float: left;
+  margin-right: 9px !important;
+}
+
+.stHomePageLink > .prfiButtonIcon > svg {
+  width: 30px;
+}
+
+.prfiTopLeftIcon {
+  font-size: 27px;
+  color: #7149a2 !important;
+}
+
+.prfiLogo {
+  margin-right: 10px !important;
+}
+
+.stImageField {
+  width: 100%;
+}
+
+.stGridImageField {
+  height: 40px;
+}
+
+.dropdown-item {
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+  font-size: 0.8rem !important;
+}
+
+
+.stGridParticular > .form-group > .input-group > .form-control {
+  height: 25px !important;
+  min-height: 25px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-left: 6px !important;
+  margin-top: -2px !important;
+  font-size: 14px !important;
+}
+
+.prfiFoundText {
+  font-weight: bold;
+}
+
+.prfiBlurbHeading {
+  font-weight: bold;
+}
+
+.prfiBlurbMainHeading {
+  font-weight: bold;
+  font-size: 20px !important;
+}
+
+.stGridParticular > .form-group > .stCombobox > .stComboboxContainer > .stComboboxInput {
+  height: 25px !important;
+  min-height: 25px !important;
+  font-size: 14px !important;
+}
+
+.stGridParticular > .form-group > .stCombobox > .stComboboxContainer > .stComboboxArrow {
+  line-height: 1.0 !important;
+}
+

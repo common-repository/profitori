@@ -1,0 +1,66 @@
+{
+  "name": "widget",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/wp-content/plugins/profitori/widget/build",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@material-ui/core": "^4.5.2",
+    "@material-ui/icons": "^4.5.1",
+    "acorn": "^8.0.4",
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.4",
+    "codepage": "^1.14.0",
+    "file-saver": "^2.0.2",
+    "FileSaver": "^0.10.0",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jsbarcode": "^3.11.0",
+    "jspdf": "^1.5.3",
+    "prismjs": "^1.22.0",
+    "qrcode": "^1.5.1",
+    "react": "^16.12.0",
+    "react-app-polyfill": "^1.0.6",
+    "react-chartjs-2": "^2.10.0",
+    "react-datepicker": "^2.14.1",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.2.0",
+    "react-select": "^3.0.8",
+    "react-simple-code-editor": "^0.11.0",
+    "react-widgets": "^4.5.0",
+    "reactstrap": "^8.4.1",
+    "reactstrap-date-picker": "0.0.7",
+    "rechart": "0.0.1",
+    "recharts": "^1.8.5",
+    "svgo": "1.3.0",
+    "to-regex-range": "^5.0.1",
+    "xlsx": "^0.16.1",
+    "xlsx-style": "^0.8.13"
+  },
+  "scripts": {
+    "start": "PORT=5999 react-scripts --openssl-legacy-provider start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "ie 11"
+    ]
+  },
+  "devDependencies": {
+    "webpack-bundle-analyzer": "^3.7.0"
+  }
+}

@@ -1,0 +1,12 @@
+'GroupList'.list()
+'Customer Groups'.title()
+'Back'.action({act: 'cancel'})
+'Add'.action({act: 'add'})
+'Download to Excel'.action({act: 'excel'})
+'Group'.datatype()
+'groupName'.field({key: true})
+'description'.field()
+'Edit'.action({place: 'row', act: 'edit'})
+'Trash'.action({place: 'row', act: 'trash'})
+'GroupMaint.js'.maintSpecname()
+

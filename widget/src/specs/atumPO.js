@@ -1,0 +1,6 @@
+'atumPO'.datatype({source: 'WC'})
+'_date_created'.field({date: true})
+'_supplier'.field({numeric: true})
+'_date_expected'.field({date: true})
+'_status'.field()
+'notes'.field()

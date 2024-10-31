@@ -1,0 +1,21 @@
+{
+    "Home": "Acasa",
+	"Dashboard":"Grafice",
+    "Inventory": "Stoc",
+	"Location Inventory":"Locatii Stocuri",
+    "Purchase Orders": "Achizitie",
+    "Receive Purchases":"Receptie",
+	"Work Orders":"Productie",
+    "Sales and Invoices":"Vanzari",
+	"Fulfillment":"Livrari",
+	"View Profits":"Profit",
+	"General Ledger":"Registru General",
+    "Stocktake": "Inventar",
+    "Suppliers": "Furnizori",
+	"Customers":"Clienti",
+	"Locations":"Locatii",
+    "Reports": "Rapoarte",
+	"Search":"Cautare",
+    "Settings": "Setari",
+	"Modify Profitori":"Modificari Profitori"
+}

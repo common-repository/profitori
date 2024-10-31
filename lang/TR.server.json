@@ -1,0 +1,21 @@
+{
+    "Home": "Anasayfa",
+	"Dashboard": "Gösterge Paneli",
+	"Inventory": "Envanter",
+	"Location Inventory": "Konum Envanteri",
+	"Purchase Orders": "Satın alma siparişleri",
+	"Receive Purchases": "Alımları Al",
+	"Work Orders": "İş Emirleri",
+	"Sales and Invoices": "Satış ve Faturalar",
+	"Fulfillment": "yerine getirme",
+	"View Profits": "Karları Görüntüle",
+	"General Ledger": "Genel Muhasebe",
+	"Stocktake": "Durum değerlendirmesi",
+	"Suppliers": "Tedarikçiler",
+	"Customers": "müşteriler",
+	"Locations": "Konumlar",
+	"Reports": "Raporlar",
+	"Search": "Arama",
+	"Settings": "Ayarlar",
+	"Modify Profitori": "Kendi Erp ni tasarla"
+}

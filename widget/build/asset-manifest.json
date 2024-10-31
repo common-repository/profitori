@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/profitori/widget/build/static/css/main.20df40eb.chunk.css",
+    "main.js": "/wp-content/plugins/profitori/widget/build/static/js/main.edbedfb6.chunk.js",
+    "runtime-main.js": "/wp-content/plugins/profitori/widget/build/static/js/runtime-main.f2f71c94.js",
+    "static/css/2.143f9196.chunk.css": "/wp-content/plugins/profitori/widget/build/static/css/2.143f9196.chunk.css",
+    "static/js/2.48e91911.chunk.js": "/wp-content/plugins/profitori/widget/build/static/js/2.48e91911.chunk.js",
+    "index.html": "/wp-content/plugins/profitori/widget/build/index.html",
+    "precache-manifest.c225c6617a616157845532a987c47b2d.js": "/wp-content/plugins/profitori/widget/build/precache-manifest.c225c6617a616157845532a987c47b2d.js",
+    "service-worker.js": "/wp-content/plugins/profitori/widget/build/service-worker.js",
+    "static/media/Inventory.js~": "/wp-content/plugins/profitori/widget/build/static/media/Inventory.d41d8cd9.js~"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2f71c94.js",
+    "static/css/2.143f9196.chunk.css",
+    "static/js/2.48e91911.chunk.js",
+    "static/css/main.20df40eb.chunk.css",
+    "static/js/main.edbedfb6.chunk.js"
+  ]
+}

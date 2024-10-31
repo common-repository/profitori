@@ -1,0 +1,12 @@
+'MagnitudeMaint'.maint({panelStyle: "titled"})
+'Add Opportunity Size'.title({when: 'adding'})
+'Edit Opportunity Size'.title({when: 'editing'})
+'Back'.action({act: 'cancel'})
+'OK'.action({act: 'ok'})
+'Save'.action({act: 'save'})
+'Add another'.action({act: 'add'})
+'Magnitude'.datatype()
+
+'Details'.panel()
+'description'.field({key: true})
+'notes'.field({multiLine: true})
